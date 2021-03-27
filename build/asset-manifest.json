@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b091dc17.chunk.css",
+    "main.js": "/static/js/main.12559775.chunk.js",
+    "main.js.map": "/static/js/main.12559775.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4dc38ac9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4dc38ac9.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5e817d01.chunk.js": "/static/js/2.5e817d01.chunk.js",
+    "static/js/2.5e817d01.chunk.js.map": "/static/js/2.5e817d01.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.793ed7ffec23a13b09a61adcf5763761.js": "/precache-manifest.793ed7ffec23a13b09a61adcf5763761.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.b091dc17.chunk.css.map": "/static/css/main.b091dc17.chunk.css.map",
+    "static/js/2.5e817d01.chunk.js.LICENSE.txt": "/static/js/2.5e817d01.chunk.js.LICENSE.txt",
+    "static/media/bb.jpg": "/static/media/bb.980bd9cb.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/regpic3.jpg": "/static/media/regpic3.6903146f.jpg",
+    "static/media/us.jpg": "/static/media/us.2c3ea580.jpg",
+    "static/media/venmo_logo_blue.png": "/static/media/venmo_logo_blue.615ed5c7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dc38ac9.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5e817d01.chunk.js",
+    "static/css/main.b091dc17.chunk.css",
+    "static/js/main.12559775.chunk.js"
+  ]
+}
