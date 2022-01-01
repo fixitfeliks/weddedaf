@@ -71,6 +71,7 @@ html {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
 }
 
 .AF-Stacked {
@@ -136,5 +137,8 @@ html {
 }
 
 p {
+  margin-top: 1rem;
   width: 100%;
+  align-items: center;
+  height: fit-content;
 }
