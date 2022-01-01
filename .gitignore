@@ -1,0 +1,3 @@
+src/.env.js
+build/
+node_modules/
